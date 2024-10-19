@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\QLSV\QLSV\bin\Debug\QLSV.exe.config
+C:\Users\DELL\Desktop\QLSV\QLSV\bin\Debug\QLSV.exe
+C:\Users\DELL\Desktop\QLSV\QLSV\bin\Debug\QLSV.pdb
+C:\Users\DELL\Desktop\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\QLSV\QLSV\obj\Debug\QLSV.Form1.resources
+C:\Users\DELL\Desktop\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+C:\Users\DELL\Desktop\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\QLSV\QLSV\obj\Debug\QLSV.exe
+C:\Users\DELL\Desktop\QLSV\QLSV\obj\Debug\QLSV.pdb
+C:\Users\DELL\Desktop\QLSV\QLSV\obj\Debug\QLSV.frmSinhVien.resources
+C:\Users\DELL\Desktop\QLSV\QLSV\obj\Debug\QLSV.frmDSSV.resources
+C:\Users\DELL\Desktop\QLSV\QLSV\obj\Debug\QLSV.frmDSGV.resources
+C:\Users\DELL\Desktop\QLSV\QLSV\obj\Debug\QLSV.frmGV.resources
+C:\Users\DELL\Desktop\QLSV\QLSV\obj\Debug\QLSV.frmDSMH_.resources
+C:\Users\DELL\Desktop\QLSV\QLSV\obj\Debug\QLSV.frmMonHoc.resources
